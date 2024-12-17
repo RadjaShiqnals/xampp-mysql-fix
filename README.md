@@ -8,7 +8,7 @@ This repository contains an improved version of the batch script (`data_fix.bat`
 
 ## Usage
 
-1. Place the `data_fix.bat` file inside the MySQL directory.
+1. Place the `data_fix.bat` or `data_fix.exe` file inside the MySQL directory.
 2. Run the script by double-clicking it or executing it from the command line.
 
 ## Script Steps
