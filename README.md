@@ -2,10 +2,13 @@
 
 This repository contains an improved version of the batch script (`data_fix.bat`) designed to manage and restore MySQL data directories. This project is an improvement of [XAMPP-MySQL-Auto-Fix](https://github.com/DanielHadianto456/XAMPP-MySQL-Auto-Fix) by [DanielHadianto456](https://github.com/DanielHadianto456).
 
+## Error example
+
+![ezgif-4-da4af3afe0](https://github.com/user-attachments/assets/b1451d5e-c525-4da4-995e-0f99ae67c70e)
+
 ## Download here
 
 https://github.com/RadjaShiqnals/xampp-mysql-fix/releases
-
 
 ## Prerequisites
 
